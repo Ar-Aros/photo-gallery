@@ -1,1 +1,0 @@
-Here, Header,footer and config file are stored
